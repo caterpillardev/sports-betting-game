@@ -28,5 +28,5 @@
 
 The platform’s backend repository is currently private. If you have any questions or need assistance, feel free to reach out:
 
-- Telegram [@rhettjel](https://t.me/rhettjel).
+- Telegram [@defai_maxi](https://t.me/defai_maxi).
 - Twitter  [@defai_maxi](https://x.com/defai_maxi)
