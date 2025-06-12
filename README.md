@@ -28,5 +28,5 @@
 
 The platform’s backend repository is currently private. If you have any questions or need assistance, feel free to reach out:
 
-- [Telegram](https://t.me/oxzepdev).
-- [Twitter](https://x.com/0xzepdev)
+- [Telegram](https://t.me/caterpillardev).
+- [Twitter](https://x.com/caterpillardev)
